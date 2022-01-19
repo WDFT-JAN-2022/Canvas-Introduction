@@ -13,5 +13,3 @@ ctx.fillStyle = "blue";
 ctx.fillRect(400, 400, 100, 100);
 
 ctx.strokeRect(250, 250, 100, 100);
-
-ctx.clearRect(0, 0, 600, 600);
