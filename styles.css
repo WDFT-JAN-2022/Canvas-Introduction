@@ -1,3 +1,8 @@
 #c {
   border: 1px solid black;
+
+  background-image: url("./wallpaper.jpeg");
+  background-repeat: no-repeat;
+  /* background-size: contain; */
+  background-size: cover;
 }
